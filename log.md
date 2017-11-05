@@ -9,3 +9,14 @@
 **Todo:** Now using firebase silent the phone remotely using api.
 
 **Link to work:** [controlling-phone](https://github.com/nirajmark/controlling-phone)
+
+### Day 1: November 5, 2017
+
+**Today's Progress**: Using firebase push notification to control the phone
+
+**Thoughts:** Was stuck on how to use onNotificationReceived when app is in backgound or killed, but found the solution on stackoverflow.
+
+**Todo:** Creating api to send push notification to phone
+
+**Link to work:** [controlling-phone-commit1](https://github.com/nirajmark/controlling-phone/commit/b375c0f01f3e31830a82a9b0558a8109980abbdc)
+[controlling-phone-commit2](https://github.com/nirajmark/controlling-phone/commit/2f8594c870372c6f07359d555bbfe6cdb8cf0544)
