@@ -20,3 +20,13 @@
 
 **Link to work:** [controlling-phone-commit1](https://github.com/nirajmark/controlling-phone/commit/b375c0f01f3e31830a82a9b0558a8109980abbdc)
 [controlling-phone-commit2](https://github.com/nirajmark/controlling-phone/commit/2f8594c870372c6f07359d555bbfe6cdb8cf0544)
+
+### Day 2: November 6, 2017
+
+**Today's Progress**: created api route to send push notification to android using node-gcm package
+
+**Thoughts:** now thinking about adding proper data from which user can perform diferent actions
+
+**Todo:** sending and processing data field from the request, changing android code to perform different task according to action data
+
+**Link to work:** [controlling-phone-backend](https://github.com/nirajmark/controlling-phone-backend/commit/57ed68609ccbb2df2ec4c199d0798a8972324410)
