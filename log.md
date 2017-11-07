@@ -30,3 +30,13 @@
 **Todo:** sending and processing data field from the request, changing android code to perform different task according to action data
 
 **Link to work:** [controlling-phone-backend](https://github.com/nirajmark/controlling-phone-backend/commit/57ed68609ccbb2df2ec4c199d0798a8972324410)
+
+### Day 3: November 7, 2017
+
+**Today's Progress**: Worked on developing alexa skill
+
+**Thoughts:** got little understanding on how to develop alexa skills
+
+**Todo:** start writing skill logic for controlling-phone
+
+**Link to work:**
