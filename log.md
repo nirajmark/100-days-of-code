@@ -40,3 +40,14 @@
 **Todo:** start writing skill logic for controlling-phone
 
 **Link to work:**
+
+
+### Day 4: November 9, 2017
+
+**Today's Progress**: Worked on developing alexa skill
+
+**Thoughts:** doing various tutorial on alexa skill development
+
+**Todo:** start writing skill logic for controlling-phone
+
+**Link to work:**
