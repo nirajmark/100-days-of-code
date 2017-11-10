@@ -51,3 +51,14 @@
 **Todo:** start writing skill logic for controlling-phone
 
 **Link to work:**
+
+
+### Day 5: November 10, 2017
+
+**Today's Progress**: developing alexa skill for phone controller
+
+**Thoughts:** As of now developing the skill locally and then uploading it to lamda for testing
+
+**Todo:** Find out the way to test the lamda function locally before uploading
+
+**Link to work:** 
