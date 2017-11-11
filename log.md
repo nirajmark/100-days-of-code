@@ -61,4 +61,14 @@
 
 **Todo:** Find out the way to test the lamda function locally before uploading
 
-**Link to work:** 
+**Link to work:**
+
+### Day :6 November 11, 2017
+
+**Today's Progress**: Learning full stack development/doing research on linking alexa user with user in my system
+
+**Thoughts:** I have decided to learn full stack development using node +express+ react
+
+**Todo:** complete the udemy course on Sunday
+
+**Link to work:**
