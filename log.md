@@ -79,6 +79,16 @@
 
 **Thoughts:** learned a lot about passport library and authentication
 
-**Todo:** 
+**Todo:**
+
+**Link to work:**
+
+### Day 8: November 13, 2017
+
+**Today's Progress**: setting up react part of app
+
+**Thoughts:** learning about react-route, redux
+
+**Todo:**
 
 **Link to work:**
