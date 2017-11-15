@@ -92,3 +92,13 @@
 **Todo:**
 
 **Link to work:**
+
+### Day 9: November 14, 2017
+
+**Today's Progress**: working with freshdesk api for hackathon
+
+**Thoughts:** freshdesk api usage
+
+**Todo:** create a backend app to arrange the data according to data we need
+
+**Link to work:**
