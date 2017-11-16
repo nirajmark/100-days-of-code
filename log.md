@@ -102,3 +102,13 @@
 **Todo:** create a backend app to arrange the data according to data we need
 
 **Link to work:**
+
+### Day 10: November 15, 2017
+
+**Today's Progress**: Working on oauth2 for controlling phone
+
+**Thoughts:** I have decided to work on controlling phone and then work on hackathon
+
+**Todo:** oauth2 for android app and backend api to update GCM token for user
+
+**Link to work:**
