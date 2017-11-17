@@ -112,3 +112,13 @@
 **Todo:** oauth2 for android app and backend api to update GCM token for user
 
 **Link to work:**
+
+### Day 11: November 16, 2017
+
+**Today's Progress**: Finish implementing google oauth2 on app using firebase
+
+**Thoughts:** Got little scared when code was not working on emulator but its working fine on Actual android device
+
+**Todo:** Showing Correct screen after oauth in app, implement api to store user data in mongo (mlabs)
+
+**Link to work:**
