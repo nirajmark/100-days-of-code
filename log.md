@@ -122,3 +122,13 @@
 **Todo:** Showing Correct screen after oauth in app, implement api to store user data in mongo (mlabs)
 
 **Link to work:**
+
+### Day 12: November 17, 2017
+
+**Today's Progress**: Finish implementing backend route for user creation and updating gcm token
+
+**Thoughts:** have to think about deployment
+
+**Todo:** 1) calling api from app  using retrofit library 2) modifying lamda function to get token from db
+
+**Link to work:**
