@@ -142,3 +142,15 @@
 **Todo:** 1) debugging retrofit issue
 
 **Link to work:**
+
+### Day 14: November 19, 2017
+
+**Today's Progress**: Fixed issue with retrofit in android
+
+**Thoughts:** have to think about securing user creation api
+
+**Todo:**
+1) integrating mongodb in lamda function
+2) connecting our user db with alexa
+
+**Link to work:**
