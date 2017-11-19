@@ -154,3 +154,15 @@
 2) connecting our user db with alexa
 
 **Link to work:**
+
+
+### Day 15: November 20, 2017
+
+**Today's Progress**: 1) integrating mongodb in lamda function
+
+**Thoughts:** have to think about securing user creation api
+
+**Todo:**
+2) connecting our user db with alexa
+
+**Link to work:**
