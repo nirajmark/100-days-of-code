@@ -132,3 +132,13 @@
 **Todo:** 1) calling api from app  using retrofit library 2) modifying lamda function to get token from db
 
 **Link to work:**
+
+### Day 13: November 18, 2017
+
+**Today's Progress**: Working on calling post api through retrofit
+
+**Thoughts:**
+
+**Todo:** 1) debugging retrofit issue
+
+**Link to work:**
