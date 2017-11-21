@@ -166,3 +166,14 @@
 2) connecting our user db with alexa
 
 **Link to work:**
+
+### Day 16: November 22, 2017
+
+**Today's Progress**: Generating token for user using jsonwebtoken and validating
+
+**Thoughts:** To link alexa user to your user I have to learn about oauth flow in detail
+
+**Todo:**
+1) connecting our user db with alexa
+
+**Link to work:**
