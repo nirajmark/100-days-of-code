@@ -177,3 +177,14 @@
 1) connecting our user db with alexa
 
 **Link to work:**
+
+### Day 17: November 23, 2017
+
+**Today's Progress**: Worked on creating auth flow using passport and google strategy
+
+**Thoughts:** 
+
+**Todo:**
+
+
+**Link to work:**
