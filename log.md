@@ -182,7 +182,20 @@
 
 **Today's Progress**: Worked on creating auth flow using passport and google strategy
 
-**Thoughts:** 
+**Thoughts:**
+
+**Todo:**
+
+
+**Link to work:**
+
+### Day 18: November 24, 2017
+
+**Today's Progress**: Working on solving google oauth issue
+
+**Thoughts:** Found the issue rather than sending firebase id I have to send google ID from android app if possible. once thats done i have to change passport.serialization and passport.deserialization
+OR
+I can solve the issue by parsing through all the email and check wheather we have token for that user
 
 **Todo:**
 
