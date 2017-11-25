@@ -201,3 +201,14 @@ I can solve the issue by parsing through all the email and check wheather we hav
 
 
 **Link to work:**
+
+### Day 19: November 25, 2017
+
+**Today's Progress**: Solved oauth issue
+
+**Thoughts:** Only thing left now is to host the code on heroku + linking the app.
+
+**Todo:**
+
+
+**Link to work:**
